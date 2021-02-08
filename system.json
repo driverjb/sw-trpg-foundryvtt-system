@@ -1,0 +1,23 @@
+{
+  "name": "sw-trpg",
+  "title": "Star Wars: The Roleplaying Game",
+  "description": "",
+  "version": "0.0.1",
+  "templateVersion": 2,
+  "author": "Joel Driver",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "languages": [],
+  "socket": false,
+  "initiative": "1D",
+  "gridDistance": 1,
+  "gridUnits": "meters",
+  "primaryTokenAttribute": "resources.health",
+  "secondaryTokenAttribute": "resources.power",
+  "dependencies": [],
+  "url": "https://github.com/driverjb/sw-trpg-foundryvtt-system",
+  "manifest": "https://github.com/driverjb/sw-trpg-foundryvtt-system/system.json",
+  "download": "https://github.com/driverjb/sw-trpg-foundryvtt-system/archive/main.zip"
+}
